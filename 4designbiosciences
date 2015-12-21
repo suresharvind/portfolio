@@ -1,0 +1,351 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
+<!-- EDIT THE NEXT THREE LINES -->
+
+<title>4Design Biosciences</title>
+<meta name="Description" content=" 4Design Biosciences HomePage - Vascularized micro-organs for drug screening">
+<meta name="KeyWords" content="Microphysiological systems, body-on-a-chip platforms, 3D tumor models, tumor spheroids, cancer drug screening">
+
+<!-- EDIT THE ABOVE THREE LINES -->
+
+<link rel="stylesheet" href="coolstyle.css" type="text/css">
+<link rel="stylesheet" href="media-queries.css" type="text/css">
+<script type="text/javascript" src="javascripts.js"></script>
+</head>
+
+<body>
+
+<!-- START PAGE WRAPPER -->
+<div class="pagewrapper center-div">
+
+<!-- START OUTER SPLIT -->
+<table class="fullwidth splittable">
+<tr>
+  <td class="td-top td-left headerwidth"><!-- HEADER -->
+    
+    <div class="header"> 
+      <script type="text/javascript" src="header.js"></script> 
+      <!--- <div class="soc-header">
+<script type="text/javascript" src="social_links.js"></script> ---> 
+    </div>
+</div>
+  <!-- END HEADER --> 
+
+  <!-- TOP MENU --> 
+  <!---<script type="text/javascript" src="menu-top.js"></script> ---> 
+
+  <!-- MENU & SEARCH -->
+  <table class="fullwidth">
+  <tr>
+      <td class="printhide td-left td-top"><!-- START CORNERS -->
+      
+      <table class="fullwidth">
+          <tr>
+          <td class="td-left"><img src="picts/corner-topleft.gif" height="20" width="20" class="printhide blockimage left-div" alt="image"></td>
+          <td class="td-right"><img src="picts/corner-topright.gif" height="20" width="20" class="printhide blockimage right-div" alt="image"></td>
+        </tr>
+        </table>
+      
+      <!-- END CORNERS --> 
+      <!--NOTE: SEE END OF SOURCE CODE FOR CODE THAT CREATES THE MENU (menu.js)-->
+	  
+      <script type="text/javascript" src="menu.js"></script> 
+      
+      <!--- </td><td class="searcharea-width"> ---> 
+      
+      <!-- SEARCH --> 
+      <!--- <script type="text/javascript" src="search.js"></script> ---></td>
+    </tr>
+</table>
+  <!-- END MENU & SEARCH --> 
+
+  <!-- START INNER SPLIT -->
+  <table class="content-width" border=1>
+  <tr> 
+  <!--- <td class="td-center td-top sidebar-left contentpad">
+<div class="pageheight">
+
+ LEFT SIDEBA
+
+<img src="picts/about.jpg" width="250" height="400" class="iborders" alt="image"> <br>
+
+<br>
+
+</div>
+</td>--->
+  <td width="40">&nbsp;</td>
+  <td class="td-left td-top just contentpad"><span class="title">Applications</span><br>
+      <div class="page-splits">&nbsp;<br>
+    </div>
+      
+      <!-- PARAGRAPH 1 -->
+      
+      <div class="subtitle">VMO Applications
+      <p></p>
+    </div>
+    
+    The VMO platform is:
+    
+    <blockquote>-Flexible</blockquote>
+    <p></p>
+    <blockquote>-Free-standing</blockquote>
+    <p></p>
+    <blockquote>-Customizable</blockquote>
+    <p></p>
+    <blockquote>-Scalable</blockquote>
+    <p></p>
+    
+    
+    
+    <!--<ul class="bullet">
+    	<li>Flexible</li>
+        <li>Free-standing</li>
+        <li>Customizable</li>
+        <li>Scalable</li>
+    </ul> -->
+    <br><br>
+    <center><b>Applications: </b>(click to learn more)</center> <br><br>
+    
+    <table align="center" width="100%" border="0" cellspacing="10" cellpadding="10">
+  <tbody>
+    <tr>
+      <td>&nbsp;</td>
+      <td><a href="applications_tumors.htm">
+      <img src="picts/applications_acds.jpg" border="0" height="120" width="200" alt="">
+      </a>
+      </td>
+      <td>&nbsp;</td>
+      <td><a href="applications_metastasis.htm">
+      <img src="picts/applications_ms.jpg" border="0" height="120" width="160" alt=""></a></td>
+      <td>&nbsp;</td>
+      <td><a href="applications_organonchip.htm">
+      <img src="picts/applications_vmo.jpg" border="0" height="120" width="130" alt=""></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td align="center" width="200">Anti-cancer drug screening</td>
+      <td>&nbsp;</td>
+      <td align="center" width="160">Metastasis studies</td>
+      <td>&nbsp;</td>
+      <td align="center" width="130">Vascularized micro-organs (cardiomyocytes)</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+     <tr>
+      <td>&nbsp;</td>
+      <td><a href="applications_pm.htm">
+      <img src="picts/applications_pm.jpg" border="0" height="120" width="200" alt="">
+      </a>
+      </td>
+      <td>&nbsp;</td>
+      <td><a href="applications_vp.htm">
+      <img src="picts/applications_vp.jpg" border="0" height="120" width="160" alt=""></a></td>
+      <td>&nbsp;</td>
+      <td><a href="applications_mi.htm">
+      <img src="picts/applications_mi.jpg" border="0" height="120" width="130" alt=""></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td align="center" width="200"><br>Personalized medicine</td>
+      <td>&nbsp;</td>
+      <td align="center" width="160"><br>Vascular pathology</td>
+      <td>&nbsp;</td>
+      <td align="center" width="130"><br>Metabolic imaging</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+    
+      
+      <!--- <span class="subtitle">
+
+
+Management and Staff<br>
+
+</span> 
+
+<strong>
+<div class="quote-hilite td-center">The Problem</div>
+<!--- <div style="color:#5A6A87"; font=" 13px arial, sans-serif"; line-height= "17px"; align="left";>The Problem</strong><p> --->
+<!-- <div font-weight="normal";>
+<ul > <!--- class="bullet" --->
+
+  <!--<li> Thousands of drugs fail during pre-clinical testing
+  <p></p>
+  <li> Only 1 in 5 drugs entering clinical trials make it to market
+  <p></p>
+  <li> Many drugs are withdrawn after approval - often due to liver or heart cell toxicity 
+  <p></p>
+  <li> As a result, the cost of bringing a new drug to market is now close to $1 billion 
+  </ul>
+  <br>
+  </div>
+
+
+<strong>
+<div class="quote-hilite td-center">The Reasons</div>-->
+<!--- <div style="color:#5A6A87"; font=" 13px arial, sans-serif"; line-height= "17px"; align="left";>The Reasons</strong><p> --->
+ <!--<div font-weight="normal";>
+<ul >
+
+<li> Most tissues are 3D.  Cell-based drug assays are most often performed on 2D monolayers of cells 
+<p></p>
+<li> Tissues contain multiple cell types. Cell-based drug assays are most often performed using monocultures</li>
+<p></p>
+<li> Drugs are delivered through blood vessels in the body, but added directly to the cells in the lab
+<p></p>
+</ul>
+<br>
+</div>
+
+
+<strong>
+<div class="quote-hilite td-center">The 4DBio Solution</div></strong>-->
+<!--- <div style="color:#5A6A87"; font=" 13px arial, sans-serif"; line-height= "17px"; align="left";>The 4DBio Solution</strong> <p></p>
+ --->
+ <!--<p></p>
+ <div font-weight="normal";>
+4DBio has developed a novel 3D vascularized, human, micro-organ (VMO) high-throughput microfluidic platform technology, which
+promises to have a profound positive impact on drug discovery by better predicting efficacy and safety of compounds in the early stage of drug development. 
+<p></p>
+We expect that application of our unique 4Design platform technology will reduce late stage drug attrition and result in huge drug discovery cost savings.
+</div>
+<br><br>
+
+<strong>
+<div class="quote-hilite td-center">The 4DBio VMO</div></strong><p></p>
+ <div font-weight="normal";>
+The 4DBio 3D vascularized human micro-organ (VMO) high-throughput microfluidic device:
+<p></p>
+<div align="center">
+<img src="picts/technology_7.jpg" border="3"  alt="">
+</div> 
+-->
+
+
+
+
+
+
+
+<br><br>
+
+</td></tr></table>
+<!-- END INNER SPLIT -->
+
+
+
+
+
+
+</td></tr><tr><td class="td-bottom">
+
+
+<!-- START CORNERS -->
+<table class="fullwidth"><tr><td class="td-left">
+<img src="picts/corner-bottomleft.gif" height="20" width="20" class="printhide blockimage left-div" alt="image">
+</td><td class="td-right">
+<img src="picts/corner-bottomright.gif" height="20" width="20" class="printhide blockimage right-div" alt="image">
+</td></tr></table>
+<!-- END CORNERS -->
+
+
+
+
+
+
+<!-- FOOTER -->
+<div class="footer footertext">
+<table class="fullwidth"><tr><td class="td-left td-top footerpad">
+
+<script type="text/javascript" src="menu-footer.js"></script>
+
+</td><td class="td-right td-top footerpad">
+
+<!--- <script type="text/javascript" src="social_links.js"></script> --->
+
+</td></tr></table>
+
+<script type="text/javascript" src="footer-copyright.js"></script>
+
+</div>
+
+<!-- FOOTER SHADE -->
+<div class="footershade">&nbsp;<br></div>
+
+<!-- END FOOTER -->
+
+
+
+
+
+
+</td></tr></table>
+<!-- END OUTER SPLIT -->
+
+
+
+
+<br><br>
+
+
+
+
+</div>
+<!-- END PAGE WRAPPER -->
+
+
+
+
+</body>
+</html>
+
+<!-------------------------------------------------END OF HTML FILE - FOLLOWING CODE IS FOR THE HEADER MENU----------------------------------->
+
+document.write('<html lang="en">');
+document.write('<head>');
+document.write('  <link rel="stylesheet" type="text/css" href="hover.css" media="screen" />');
+document.write('</head>');
+document.write('<body>');
+document.write('<ul>');
+document.write('        <li><a href="Index.html"><b>Home</b></a></li>');
+document.write('        <li><a href="collaborations.htm"><b>Collaborations</b></a></li>');
+document.write('        <li>');
+document.write('            <a href="Technology.htm"><b>Technology &#9662;</b></a>');
+document.write('            <ul class="dropdown">');
+document.write('                <li><a href="technology_design.htm"><b>Design</b></a></li>');
+document.write('                <li><a href="technology_operation.htm"><b>Operation</b></a></li>');
+document.write('                <li><a href="technology_workflow.htm"><b>Work Flow</b></a></li>');
+document.write('            </ul>');
+document.write('        </li>');
+document.write('        <li>');
+document.write('            <a href="Applications.htm"><b>Applications &#9662;</b></a>');
+document.write('            <ul class="dropdown">');
+document.write('                <li><a href="applications_tumors.htm"><b>Tumors</b></a></li>');
+document.write('                <li><a href="applications_metastasis.htm"><b>Metastasis</b></a></li>');
+document.write('                <li><a href="applications_organonchip.htm"><b>Organ-on-Chip</b></a></li>');
+document.write('                <li><a href="applications_pm.htm"><b>Personalized Medicine</b></a></li>');
+document.write('                <li><a href="applications_vp.htm"><b>Vascular Pathology</b></a></li>');
+document.write('                <li><a href="applications_mi.htm"><b>Metabolic Imaging</b></a></li>');
+document.write('            </ul>');
+document.write('        </li>');
+document.write('        <li><a href="Publications.htm"><b>Publications</b></a></li>');
+document.write('        <li><a href="Founders.htm"><b>Founders</b></a></li>');
+document.write('        <li><a href="contact.htm"><b>Contact</b></a></li>');
+document.write('    </ul>');
+document.write('</div>');
+document.write('</body>');
+document.write('</html>');	
